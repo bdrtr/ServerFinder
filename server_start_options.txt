@@ -1,0 +1,4 @@
+min_ram=4G
+max_ram=4G
+#disk_priority=2
+#cpu_priority=4
