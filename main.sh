@@ -1,7 +1,9 @@
-#! usr/bin/bash
+#!/usr/bin/bash
 
 source finder.sh
 source starter.sh
+
+
 
 function main() {
 
@@ -13,3 +15,6 @@ function main() {
 
 
 main
+
+
+
