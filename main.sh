@@ -1,7 +1,9 @@
 #!/usr/bin/bash
 
-source finder.sh
-source starter.sh
+BASE_DIR=/usr/local/bin/ServerFinder
+
+source "$BASE_DIR/finder.sh"
+source "$BASE_DIR/starter.sh"
 
 
 

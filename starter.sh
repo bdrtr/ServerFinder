@@ -1,6 +1,7 @@
 #! usr/bin/bash
 
-source start_options.sh
+BASE_DIR=/usr/local/bin/ServerFinder
+source "$BASE_DIR/start_options.sh"
 
 function change_the_properties() {
     gum log --structured --level info "we find the $1 file"
